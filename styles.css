@@ -1,0 +1,68 @@
+
+
+.paraghraph_1 {
+    color: blueviolet;
+    font-size: large;
+    font-style: italic;
+}
+.part_2 {
+    color: blue;
+    font-size: medium;
+    font-style: italic;
+}
+.set_3 {
+    color: blue;
+    font-size: medium;
+    font-style: italic;
+}
+.past_4 {
+    color:blue;
+    font-size: medium;
+    font-style: italic;
+
+}
+.past_6 {
+  color: blue;
+  font-size: medium;
+  font-style: italic;  
+}
+.past_8 {
+    color: blue;
+    font-size: medium;
+    font-style: italic;
+}
+#set_1 {
+    color:brown;
+    font-size: medium;
+    font-style: italic;
+}
+#set_2 {
+    color:brown;
+    font-size: medium;
+    font-style: italic;
+}
+#set_3 {
+     color:brown;
+    font-size: medium;
+    font-style: italic;
+}
+#set_4 {
+     color:brown;
+    font-size: medium;
+    font-style: italic;
+}
+#set_5 {
+     color:brown;
+    font-size: medium;
+    font-style: italic;
+}
+.box {
+    margin: 20px;
+}
+.title {
+    margin-top: 50px
+    text-align: centre;
+}
+.title {
+    padding-top: 50px;
+}
